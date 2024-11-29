@@ -20,4 +20,4 @@ Tomar en cuenta las siguientes consideraciones para importar el proyecto en Ecli
  
 # Demostración de nuevo módulo
 
-https://github.com/user-attachments/assets/e0d2b443-4a14-4e93-8fd7-120680f9e453
+https://github.com/user-attachments/assets/4932f8a3-9d39-4db3-bf00-0bdd79b33dfe
