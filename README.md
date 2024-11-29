@@ -15,4 +15,9 @@ Tomar en cuenta las siguientes consideraciones para importar el proyecto en Ecli
 - Crear un datasource en Wildfly denominado mmarketdemoDS.
 - Crear un datasource en el IDE Eclipse denominado mmarketdemoDS.
 
+# Nuevo módulo Pelculas
+- script sql: minimarketdemoEJB/docs/peliculas.sql
+ 
+# Demostración de nuevo módulo
+
 https://github.com/user-attachments/assets/e0d2b443-4a14-4e93-8fd7-120680f9e453
