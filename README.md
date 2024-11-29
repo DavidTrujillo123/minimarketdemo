@@ -14,3 +14,8 @@ Tomar en cuenta las siguientes consideraciones para importar el proyecto en Ecli
 - Crear la base de datos mmarketdemo en la base de datos Postgresql con el script sql ubicado en minimarketdemoEJB/docs.
 - Crear un datasource en Wildfly denominado mmarketdemoDS.
 - Crear un datasource en el IDE Eclipse denominado mmarketdemoDS.
+
+<video controls width="500">
+    <source src="demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
