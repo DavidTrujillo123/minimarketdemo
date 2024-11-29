@@ -15,7 +15,4 @@ Tomar en cuenta las siguientes consideraciones para importar el proyecto en Ecli
 - Crear un datasource en Wildfly denominado mmarketdemoDS.
 - Crear un datasource en el IDE Eclipse denominado mmarketdemoDS.
 
-<video controls width="500">
-    <source src="demo.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/e0d2b443-4a14-4e93-8fd7-120680f9e453
